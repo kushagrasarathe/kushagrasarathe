@@ -3,7 +3,7 @@
   <br>
   
 <p align="center">
-<img src="https://giphy.com/embed/UnnTv8MGLBLEc" width="480" height="270"/>
+<img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 <!--   <img src="https://s.4cdn.org/image/title/115.gif"> -->
 <!--   <img src="https://s.4cdn.org/image/title/100.gif"> -->
 <!--   <img width="200" height="200" src="https://avatars.githubusercontent.com/u/76868364?v=4"> -->
