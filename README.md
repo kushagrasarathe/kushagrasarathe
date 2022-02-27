@@ -1,7 +1,9 @@
 ### Hi there 👋 I'm Kushagra Sarathe 👨🏻‍💻
 
-<img src="https://avatars.githubusercontent.com/u/76868364?v=4" style="width:100px;height:100px;display:block;margin-left:auto;margin-right:auto;"/>
-
+<p align="center">
+  <img width="200" height="200" src="https://avatars.githubusercontent.com/u/76868364?v=4">
+</p>
+<hr>
 - 🔭 I’m working on a personal project.
 - 🌱 I’m learning about Application Security, JavaScript, React JS, & Solidity
 - 👯 I’m looking to collaborate on Bug Hunting and Development
