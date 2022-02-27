@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Kushagra Sarathe 👨🏻‍💻
 
 <p align="center">
+  <h2> Hi there 👋 I'm Kushagra Sarathe 👨🏻‍💻 </h2>
   <img width="200" height="200" src="https://avatars.githubusercontent.com/u/76868364?v=4">
 </p>
 
