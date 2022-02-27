@@ -1,7 +1,6 @@
 <p align="center">
-  <div>
+   <h1 align="center">Material Bread</h1>
    Hi there 👋 I'm Kushagra Sarathe 👨🏻‍💻
-  </div>
   <br><br>
   <img src="http://s.4cdn.org/image/title/105.gif">
   <img width="200" height="200" src="https://avatars.githubusercontent.com/u/76868364?v=4">
