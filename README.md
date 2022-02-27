@@ -3,7 +3,9 @@
 <p align="center">
   <img width="200" height="200" src="https://avatars.githubusercontent.com/u/76868364?v=4">
 </p>
+
 <hr>
+
 <div>
 - 🔭 I’m working on a personal project.
 - 🌱 I’m learning about Application Security, JavaScript, React JS, & Solidity
