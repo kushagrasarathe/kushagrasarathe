@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Kushagra Sarathe 👨🏻‍💻
+
+<img src="https://avatars.githubusercontent.com/u/76868364?v=4"/>
+
+- 🔭 I’m currently working on a project for a Hackathon.
+- 🌱 I’m currently learning about Application Security, JavaScript, React JS, & Solidity
+- 👯 I’m looking to collaborate on Bug Hunting and Development
+- 💬 Talk me about Security & Development stuff 
+- 📫 How to reach me: [kushagrasarathe](https://twitter.com/kushagrasarathe)
+- ⚡ Fun fact: I'm also a bug bounty hunter
+
 
 <h1 align="center">Hi there 👋 I'm Kushagra Sarathe 👨🏻‍💻 </h1>
 <h4 align="center">I'm a 20 years old Application Security student and JavaScript learner.</h4>
