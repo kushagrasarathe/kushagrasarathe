@@ -1,6 +1,6 @@
 <center>
 <p align="center">
-  <h2> Hi there 👋 I'm Kushagra Sarathe 👨🏻‍💻 </h2>
+  
  
 </p>
 </center>
@@ -8,12 +8,9 @@
 Normal Text
 
 <p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
+  <h2> Hi there 👋 I'm Kushagra Sarathe 👨🏻‍💻 </h2>
   <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
+<!--   <img src="http://s.4cdn.org/image/title/105.gif"> -->
   <img width="200" height="200" src="https://avatars.githubusercontent.com/u/76868364?v=4">
 </p>
 
