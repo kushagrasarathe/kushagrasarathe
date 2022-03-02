@@ -12,7 +12,7 @@
 <hr>
 <br>
 
-- 🔭 I’m working on a personal project.
+- 🔭 I’m working on some personal projects
 - 🌱 I’m learning about Application Security, JavaScript, React JS, & Solidity
 - 👯 I’m looking to collaborate on Bug Hunting and Development
 - 💬 Talk me about Security & Development stuff 
