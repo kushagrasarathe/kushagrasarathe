@@ -12,8 +12,8 @@
 <br>
 
 - 🔭 I’m working on some personal projects
-- 🌱 I’m learning about Application Security, JavaScript, React JS, & Solidity
+- 🌱 I’m learning and sharing my developer journey, I'm learnig Front-end development these days.
 - 👯 I’m looking to collaborate on Bug Hunting and Development
-- 💬 Talk me about Security & Development stuff 
+- 💬 Talk me about Front-end Development & Application Security stuff 
 - 📫 How to reach me: [kushagrasarathe](https://twitter.com/kushagrasarathe)
-<!-- - ⚡ Fun fact:  :) -->
+- ⚡ Fun fact: I'm a bug-bounty hunter too :)
