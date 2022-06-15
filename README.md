@@ -17,4 +17,4 @@
 - 👯 I’m looking to collaborate on Bug Hunting and Development
 - 💬 Talk me about Front-end Development & Application Security stuff 
 - 📫 How to reach me: [kushagrasarathe](https://twitter.com/kushagrasarathe)
-- ⚡ Fun fact: I'm a bug-bounty hunter too :)
+- ⚡ Fun fact: I'm a bug-bounty hunter :)
