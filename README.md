@@ -32,7 +32,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />    
 </div>
 </td></tr></table>  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushagrasarathe&show_icons=true&locale=en&layout=compact" alt="kushagrasarathe" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushagrasarathe&show_icons=true&locale=en&layout=compact" alt="kushagrasarathe" /></p>
 
 <br/>  
 <h2 align="center">Connect with me</h2>  
