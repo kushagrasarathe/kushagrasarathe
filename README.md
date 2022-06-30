@@ -31,7 +31,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 </div>
-
 </td></tr></table>  
 
 <br/>  
@@ -47,15 +46,14 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 <br/>  
 
 <h2 align="center">Github Stats</h2>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kushagrasarathe&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=kushagrasarathe&&style=flat-square" align="center" />
 </div>  
-  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kushagrasarathe&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   
