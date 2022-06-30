@@ -44,8 +44,10 @@
 </a>
 <a href="https://linkedin.com/in/kushagra-sarathe" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
+</a>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushagrasarathe&show_icons=true&locale=en&layout=compact" alt="kushagrasarathe" /></p>
+
+</div>
 <br/>  
 
 <h2 align="center">Github Stats</h2>
