@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🌱 I'm learnig to code.<br>
-- 👯 I’m looking to collaborate on Bug Hunting and Development<br>
+- 👯 I’m looking to collaborate Development related work<br>
 - 💬 Talk me about Web Development & Application Security stuff
 
 
