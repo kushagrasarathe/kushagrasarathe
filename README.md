@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I'm learnig to code.<br>- 👯 I’m looking to collaborate on Bug Hunting and Development<br>- 💬 Talk me about Front-end Development & Application Security stuff <br>- 📫 How to reach me: [kushagrasarathe](https://twitter.com/kushagrasarathe)
+- 🌱 I'm learnig to code.<br>- 👯 I’m looking to collaborate on Bug Hunting and Development<br>- 💬 Talk me about Web Development & Application Security stuff
 
 
 ## 🌐 Socials:
