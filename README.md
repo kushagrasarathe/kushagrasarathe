@@ -1,22 +1,13 @@
-<h1 align="center">Hi there 👋 I'm Kushagra Sarathe 👨🏻‍💻</h1>
+# 💫 About Me:
+- 🌱 I'm learnig to code.<br>- 👯 I’m looking to collaborate on Bug Hunting and Development<br>- 💬 Talk me about Front-end Development & Application Security stuff <br>- 📫 How to reach me: [kushagrasarathe](https://twitter.com/kushagrasarathe)
 
-  <br>
-  
-<p align="center">
-  <img src="https://c.tenor.com/YUzRkMOL-3EAAAAC/programming-computer-frog.gif"/>
-<!-- <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/> -->
-<!--   <img src="https://s.4cdn.org/image/title/115.gif"> -->
-<!--   <img src="https://s.4cdn.org/image/title/100.gif"> -->
-</p>
 
-<hr>
-<br>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kushagra-sarathe) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kushagrasarathe) 
 
-- 🌱 I'm learnig to code.
-- 👯 I’m looking to collaborate on Bug Hunting and Development
-- 💬 Talk me about Front-end Development & Application Security stuff 
-- 📫 How to reach me: [kushagrasarathe](https://twitter.com/kushagrasarathe)
-
-<hr>
-<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kushagrasarathe)](https://git.io/streak-stats)
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kushagrasarathe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kushagrasarathe&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kushagrasarathe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
