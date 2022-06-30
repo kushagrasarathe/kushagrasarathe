@@ -5,7 +5,6 @@
 
 ### <div align="center">I'm Kushagra Sarathe, an aspiring full-stack developer 👨🏻‍💻  Learning to code 🚀</div>  
   
-
 - 🔭 I’m currently working on [Fullstack Progress](https://github.com/kushagrasarathe/fullstack-progress)  
   
 
@@ -21,7 +20,7 @@
 <br/>  
 
 
-## My Skill Set  
+<h2 align="center">My Skill Set</h2>  
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
