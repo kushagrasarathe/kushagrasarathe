@@ -1,9 +1,9 @@
-<div align="center">
+<!-- <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="250" width="" />
-</div>  
+</div> --!>
   
 
-### <div align="center">I'm Kushagra Sarathe, an aspiring full-stack developer 👨🏻‍💻  Learning to code 🚀</div>  
+### <div align="center">Hey I'm Kushagra Sarathe 👨🏻‍💻, an aspiring full-stack developer, Learning to code 🚀</div>  
   
 - 🔭 I’m currently working on [Fullstack Progress](https://github.com/kushagrasarathe/fullstack-progress)  
   
