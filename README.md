@@ -1,16 +1,21 @@
 <h1 align="left" id="kushagrasarathe-title">:wave: Hello there! I'm Kushagra Sarathe</h1>
 <h3 align="left">I am a Frontend Developer</h3>
 
+<!-- <a href="#kushagrasarathe-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=kushagrasarathe&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Kushagra Sarathe" align="right" /> 
+</a> -->
+<img align="right"
+   src="https://github-readme-stats.vercel.app/api?username=kushagrasarathe&show_icons=true&theme=tokyonight" 
+/>
 
-<a href="#kushagrasarathe-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushagrasarathe&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Kushagra Sarathe" align="right" />
-</a>
+
 
 - :office: &nbsp;I'm currently working as **Freelance Frontend Developer**
 - :speech_balloon: &nbsp;I like to talk about **Development** and **Security** related stuff
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Let's talk more in **[Twitter]**
+
 
 <br>
 
@@ -157,6 +162,7 @@
         </td>
       </tr>
     </table>
+    
 
 
 [linkedin]: https://www.linkedin.com/in/kushagra-sarathe "LinkedIn"
@@ -164,8 +170,23 @@
 [website]: http://kushagrasarathe.me/ "Website"
 
 
+<!--
 
 [![Kushagra's github activity graph](https://activity-graph.herokuapp.com/graph?username=kushagrasarathe&theme=react-dark)](https://github.com/kushagrasarathe)
+-->
+
+<br>
+
+<div align="center">
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=kushagrasarathe&theme=dark&hide_border=true"/>
+
+</div>
+<br>
+
+<div>
+<a href="http://www.github.com/kushagrasarathe"><img src="https://activity-graph.herokuapp.com/graph?username=kushagrasarathe&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=Kushagra's%20github%20activity%20graph" alt="Kushagra's github activity graph" /></a>
+</div>
 
 
 
