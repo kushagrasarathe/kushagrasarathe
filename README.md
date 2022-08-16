@@ -173,20 +173,25 @@
 <!--
 
 [![Kushagra's github activity graph](https://activity-graph.herokuapp.com/graph?username=kushagrasarathe&theme=react-dark)](https://github.com/kushagrasarathe)
+
+<a href="http://www.github.com/kushagrasarathe"><img src="https://activity-graph.herokuapp.com/graph?username=kushagrasarathe&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=Kushagra's%20github%20activity%20graph" alt="Kushagra's github activity graph" /></a>
 -->
 
 <br>
 
 <div align="center">
 
+<!--
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=kushagrasarathe&theme=dark&hide_border=true"/>
+-->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kushagrasarathe&theme=windows-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 <br>
 
-<div>
-<a href="http://www.github.com/kushagrasarathe"><img src="https://activity-graph.herokuapp.com/graph?username=kushagrasarathe&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=Kushagra's%20github%20activity%20graph" alt="Kushagra's github activity graph" /></a>
-</div>
+[![Kushagra's github activity graph](https://activity-graph.herokuapp.com/graph?username=kushagrasarathe&theme=react-dark)](https://github.com/kushagrasarathe)
+
 
 
 
