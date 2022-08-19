@@ -104,7 +104,8 @@
           </a>
           <br />Next JS
         </td>
-        <td align="center" width="96">
+       <!--
+       <td align="center" width="96">
           <a href="#kushagrasarathe-tech">
             <img
               src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
@@ -115,8 +116,7 @@
           </a>
           <br />Node JS
         </td>
-      </tr>
-      <tr>
+        -->
         <td align="center" width="96">
           <a href="#kushagrasarathe-tech">
             <img         src="https://camo.githubusercontent.com/d7574156c7a1844d3c2907bae0e76254cca759290c08e08a6ef2bd7543c8c0ca/68747470733a2f2f692e6962622e636f2f737331374b47302f63376238313133323437666563643833626439623565643562643366333464352d72656d6f766562672d707265766965772e706e67"
@@ -127,6 +127,8 @@
           </a>
           <br />Linux
         </td>
+      </tr>
+      <tr>
         <td align="center" width="96">
           <a href="#kushagrasarathe-tech">
             <img
@@ -149,6 +151,7 @@
           </a>
           <br />Bash
         </td>
+        <!--
         <td align="center" width="96">
           <a href="#kushagrasarathe-tech">
             <img
@@ -160,6 +163,7 @@
           </a>
           <br />Figma
         </td>
+        -->
       </tr>
     </table>
     
