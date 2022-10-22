@@ -194,10 +194,8 @@
 </div>
 <br>
 
-<!--
 [![Kushagra's github activity graph](https://activity-graph.herokuapp.com/graph?username=kushagrasarathe&theme=react-dark)](https://github.com/kushagrasarathe)
 
--->
 
 
 
