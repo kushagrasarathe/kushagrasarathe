@@ -33,5 +33,7 @@ I have a Bachelor's degree in Computer Science from Barkatullah University. I al
 If you have any questions or would like to work together on a project, feel free to contact me via:
 
 > **Email**: <u>kushagrasarathe@gmail.com</u>
+
 > **Twitter**: <u>https://twitter.com/kushagrasarathe</u>
+
 > **LinkedIn**: <u>https://www.linkedin.com/in/kushagrasarathe/</u>
