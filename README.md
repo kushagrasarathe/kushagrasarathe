@@ -2,7 +2,7 @@
 
 Hi there! I'm Kushagra Sarathe, a Computer Science Graduate and Front-end developer from India. I'm passionate about building applications that are both functional and user-friendly. 
 
-I have experience working on a variety of projects, mostly web related.
+I have experience working on a variety of web and web3 related projects.
 
 ### <u>Tools and Technologies:</u>
 HTML, CSS JavaScript, ReactJs, NextJs, Bootatrap, Tailwind CSS, Git & GitHub, Linux, Bash
