@@ -1,5 +1,4 @@
-![Fh4Aj-RWYAAIuKS](https://user-images.githubusercontent.com/76868364/206900923-454ecaad-b53f-47b9-884e-e9df06172cb9.jpg)
-
+![Fh4Aj-RWYAAIuKS copy](https://user-images.githubusercontent.com/76868364/206901005-954fa5a4-27b0-4138-a9ad-bb1ebe709887.jpg)
 
 Hi there! I'm Kushagra Sarathe, a Computer Science Graduate and Front-end developer from India. I'm passionate about building applications that are both functional and user-friendly. 
 
