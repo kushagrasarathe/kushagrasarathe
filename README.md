@@ -1,4 +1,4 @@
-![](https://i.imgur.com/PlPHuhK.jpg)
+![Fh4Aj-RWYAAIuKS](https://user-images.githubusercontent.com/76868364/206900923-454ecaad-b53f-47b9-884e-e9df06172cb9.jpg)
 
 
 Hi there! I'm Kushagra Sarathe, a Computer Science Graduate and Front-end developer from India. I'm passionate about building applications that are both functional and user-friendly. 
