@@ -30,7 +30,7 @@ Here are some of the projects I've worked on as a front-end developer:
 ### <u>Contact:</u>
 If you have any questions or would like to work together on a project, feel free to contact me via:
 
-> **Email**: <u>kushagrasarathe@gmail.com</u>
+<!-- > **Email**: <u>kushagrasarathe@gmail.com</u> -->
 
 > **Twitter**: <u>https://twitter.com/kushagrasarathe</u>
 
