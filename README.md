@@ -1,11 +1,10 @@
-<!-- ![Fh4Aj-RWYAAIuKS copy](https://user-images.githubusercontent.com/76868364/206901005-954fa5a4-27b0-4138-a9ad-bb1ebe709887.jpg) -->
+Hi there! I'm Kushagra, a Computer Science Graduate and Frontend Developer from India. I like to build applications that are both functional & user-friendly.
+Currently I'm working as a Junior Frontend Engeinner at [@BuidlersTribe](https://twitter.com/BuidlersTribe), a community that supports Web3 founders.
 
-Hi there! I'm Kushagra Sarathe, a Computer Science Graduate and Front-end developer from India. I'm passionate about building applications that are both functional and user-friendly. 
-
-I have experience working on a variety of web and web3 related projects.
+I have experience working on a variety of web and web3 related projects as a frontend dev.
 
 ### <u>Tools and Technologies:</u>
-HTML, CSS JavaScript, ReactJs, NextJs, Bootatrap, Tailwind CSS, Git & GitHub, Linux, Bash
+HTML, CSS JavaScript, TypeScript, ReactJs, NextJs, Bootatrap, Tailwind CSS, Shadcn, Git, Linux
 
 ### <u>Projects:</u>
 
@@ -28,10 +27,10 @@ Here are some of the projects I've worked on as a front-end developer:
 > Live Demo: <u>[https://artist3.vercel.app/](https://artist3.vercel.app/)</u>
 
 ### <u>Contact:</u>
-If you have any questions or would like to work together on a project, feel free to contact me via:
-
-<!-- > **Email**: <u>kushagrasarathe@gmail.com</u> -->
+If you would like contact me or collaborate on a project, feel free to drop me a message on:
 
 > **Twitter**: <u>https://twitter.com/kushagrasarathe</u>
 
 > **LinkedIn**: <u>https://www.linkedin.com/in/kushagrasarathe/</u>
+
+> **Telegram**: <u>https://t.me/kushagrasarathe/</u>
