@@ -1,6 +1,6 @@
 Hi there! I'm Kushagra, a CS Graduate and Fullstack Developer from India.
 
-I have experience working on a variety of web and web3 related projects as a frontend dev.
+I have experience working on a variety of web and web3 related projects as a frontend/fullstack dev.
 
 ### <u>Tools and Technologies:</u>
 TypeScript, Fastify, NestJs, Prisma, ReactJs, NextJs, Tailwind CSS, UI libraries, Git, Linux and more.
